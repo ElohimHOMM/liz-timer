@@ -1,4 +1,4 @@
-let goal = new Date(Date.parse("2025-06-07T19:54:00.00"));
+let goal = new Date(Date.parse("2025-07-22T20:58:00.00"));
 console.log(goal)
 let goal_string = convertToDisplay(goal);
 const goal_display = document.querySelector('#goal');
